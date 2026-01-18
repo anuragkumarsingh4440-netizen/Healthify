@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-generativeai
+protobuf
+grpcio
+python-dotenv
